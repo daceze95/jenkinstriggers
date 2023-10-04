@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage('Build'){
             steps{
-                sh 'echo "Working fine!"'
+                sh 'echo "Finally updated again"'
             }
         }
     }
